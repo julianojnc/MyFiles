@@ -1,5 +1,4 @@
-{
-  "img" : [
+[
     {
         "name": "Image 1",
         "description": "Descrição da imagem 1",
@@ -53,5 +52,4 @@
         "description": "Descrição da imagem 9",
         "img-link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-9.png"
     }
-  ]
-}
+]
