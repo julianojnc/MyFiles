@@ -2,54 +2,54 @@
     {
         "name": "Image 1",
         "description": "Descrição da imagem 1",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-1.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-1.png"
     },
 
     {
         "name": "Image 2",
         "description": "Descrição da imagem 2",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-2.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-2.png"
     },
 
     {
         "name": "Image 3",
         "description": "Descrição da imagem 3",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-3.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-3.png"
     },
 
     {
         "name": "Image 4",
         "description": "Descrição da imagem 4",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-4.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-4.png"
     },
 
     {
         "name": "Image 5",
         "description": "Descrição da imagem 5",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-5.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-5.png"
     },
 
     {
         "name": "Image 6",
         "description": "Descrição da imagem 6",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-6.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-6.png"
     },
 
     {
         "name": "Image 7",
         "description": "Descrição da imagem 7",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-7.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-7.png"
     },
 
     {
         "name": "Image 8",
         "description": "Descrição da imagem 8",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-8.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-8.png"
     },
 
     {
         "name": "Image 9",
         "description": "Descrição da imagem 9",
-        "img": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-9.png"
+        "link": "https://raw.githubusercontent.com/julianojnc/MyFiles/refs/heads/main/imagens/img-9.png"
     }
 ]
